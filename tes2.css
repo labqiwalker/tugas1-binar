@@ -1,0 +1,39 @@
+.merah {
+    background: red;
+    width: 20rem;
+    
+}
+
+.jingga {
+    background: orange;
+    width: 20rem;
+}
+
+.kuning {
+    background: yellow;
+    width: 20rem;
+}
+
+.hijau {
+    background: green;
+    width: 20rem;
+}
+
+.biru {
+    background: rgb(0, 132, 255);
+    width: 20rem;
+}
+
+.nila {
+    background: blue;
+    width: 20rem;
+}
+
+.ungu {
+    background: purple;
+    width: 20rem;
+}
+
+h3 {
+    color : white;
+}

@@ -1,0 +1,16 @@
+css : https://www.w3schools.com/cssref/
+Perbedaan px : https://rifatnajmi.com/design/px-em-rem/
+Join Zoom Meeting
+https://us02web.zoom.us/j/82919725554
+
+Meeting ID: 829 1972 5554
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://www.w3schools.com/css/css_website_layout.asp
+
+breakpoint media query
+
+navbar
+crausel
+accordion

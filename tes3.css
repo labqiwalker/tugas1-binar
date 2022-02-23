@@ -1,0 +1,48 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid black;
+    width: 100%;
+    margin: 1rem;
+}
+
+ .header {
+    height: 150px;
+    background: blue;
+ }
+
+.container2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    margin: 1rem;
+}
+ .nav {
+     width: 20%;
+     height: 30rem;
+     background: red;
+     border: 2px solid black;
+     text-align: center;
+ }
+
+ .section {
+     width: 80%;
+     height: 30rem;
+     background: green;
+     border: 2px solid black;
+     text-align: center;
+ }
+ 

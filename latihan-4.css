@@ -1,0 +1,16 @@
+
+.container  {
+width: 100%;
+}
+
+.konten {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.carousel-inner {
+    align-content: center;
+    justify-content: center;
+    width: 50%;
+}
